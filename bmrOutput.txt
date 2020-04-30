@@ -1,0 +1,100 @@
+
+
+Gender: male
+Age: 20
+Height: 5ft, 7in
+Weight: 165
+Activity Level: 2
+
+Your BMR is 1717.06 calories/day.
+Your TEE is 3022.03 calories/day.
+
+
+Gender: female
+Age: 18
+Height: 5ft, 5in
+Weight: 110
+Activity Level: 3
+
+Your BMR is 1279.83 calories/day.
+Your TEE is 2879.62 calories/day.
+
+
+Gender: female
+Age: 25
+Height: 5ft, 2in
+Weight: 98
+Activity Level: 1
+
+Your BMR is 1142.78 calories/day.
+Your TEE is 1748.45 calories/day.
+
+
+Gender: male
+Age: 45
+Height: 5ft, 7in
+Weight: 240
+Activity Level: 2
+
+Your BMR is 1932.26 calories/day.
+Your TEE is 3400.77 calories/day.
+
+
+Gender: male
+Age: 22
+Height: 6ft, 2in
+Weight: 99
+Activity Level: 1
+
+Your BMR is 1518.81 calories/day.
+Your TEE is 2323.78 calories/day.
+
+
+Gender: female
+Age: 30
+Height: 6ft, 2in
+Weight: 210
+Activity Level: 2
+
+Your BMR is 1816.30 calories/day.
+Your TEE is 3196.69 calories/day.
+
+
+Gender: female
+Age: 17
+Height: 5ft, 4in
+Weight: 120
+Activity Level: 3
+
+Your BMR is 1314.32 calories/day.
+Your TEE is 2957.21 calories/day.
+
+
+Gender: male
+Age: 29
+Height: 9ft, 5in
+Weight: 145
+Activity Level: 3
+
+Your BMR is 2311.59 calories/day.
+Your TEE is 5201.08 calories/day.
+
+
+Gender: female
+Age: 29
+Height: 5ft, 5in
+Weight: 125
+Activity Level: 3
+
+Your BMR is 1292.87 calories/day.
+Your TEE is 2908.96 calories/day.
+
+
+Gender: female
+Age: 30
+Height: 6ft, 2in
+Weight: 160
+Activity Level: 3
+
+Your BMR is 1589.51 calories/day.
+Your TEE is 3576.39 calories/day.
